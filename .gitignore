@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Django specific
+*.log
+*.pot
+*.sqlite3
+
+# Environment variables
+.env
