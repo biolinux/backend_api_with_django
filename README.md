@@ -14,7 +14,7 @@ Below is a screenshot of the response from the **GET `/books/`** endpoint using 
 - User Authentication using JWT.
 - CRUD operations for managing books.
 - Pagination and filtering for book listings.
-- Pagination and filtering for book listings.
+
 
 ## Technologies
 - Django
